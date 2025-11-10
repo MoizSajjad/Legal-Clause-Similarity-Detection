@@ -1,0 +1,13 @@
+
+
+torch==2.5.1+cu124
+torchaudio==2.5.1+cu124
+torchvision==0.20.1+cu124
+
+pandas==2.2.3
+numpy==1.26.4
+scikit-learn==1.5.2
+matplotlib==3.9.2
+
+tqdm==4.66.5
+seaborn==0.13.2
